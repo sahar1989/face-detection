@@ -1,5 +1,5 @@
 # Modern face recognition with deep learning October 2019 
-## Deatils has explained in report.pdf file.
+## Details has explained in report.pdf file.
 
 This  report,  follows  as  Face  detection,  faces  are  extracted  from  images,  Pose  estimation  face 
 alignment has done, Face encoding, encoding the extracted faces, Face recognition, some classifier 
